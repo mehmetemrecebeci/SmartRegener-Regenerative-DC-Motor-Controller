@@ -65,7 +65,6 @@ paylaşılmaktadır.
 * Altium Designer
 * STM32CubeIDE
 * STM32CubeMX
-* KiCad Viewer
 * GitHub
 
 ## Geliştirici
